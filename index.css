@@ -10,7 +10,7 @@
 }
 
 .quotecontainer {
-    color: green;
+    color: #02C900;
 }
 
 .quote {
@@ -41,4 +41,9 @@
   .button:hover {
     background: #3700ff;
     text-decoration: none;
+  }
+
+  .quotehighlight {
+    text-shadow: 0.5px 0.5px #c9c9c9;
+    color: #C700C9;
   }
