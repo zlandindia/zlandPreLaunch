@@ -1,0 +1,44 @@
+.commingsoon {
+    color: #0043FF;
+    font-size: 30px;
+    text-align: center;
+}
+
+.firstletter {
+    color: #FFBC00;
+    font-size: 80px;
+}
+
+.quotecontainer {
+    color: green;
+}
+
+.quote {
+    font-size: 15px;
+}
+
+.button {
+    background: #A703B8;
+    background-image: -webkit-linear-gradient(top, #e604ff, #f50000);
+    background-image: -moz-linear-gradient(top, #e604ff, #ff0000);
+    background-image: -ms-linear-gradient(top, #e604ff, #ff0000);
+    background-image: -o-linear-gradient(top, #e604ff, #fa0000);
+    background-image: linear-gradient(to bottom, #e604ff, #ff0000);
+    -webkit-border-radius: 25;
+    -moz-border-radius: 25;
+    border-radius: 25px;
+    text-shadow: 1px 1px 3px #9e9e9e;
+    -webkit-box-shadow: 2px 3px 3px #949494;
+    -moz-box-shadow: 2px 3px 3px #949494;
+    box-shadow: 2px 3px 3px #949494;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 22px;
+    padding: 11px 100px 13px 100px;
+    text-decoration: none;
+  }
+  
+  .button:hover {
+    background: #F7A9FF;
+    text-decoration: none;
+  }
