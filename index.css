@@ -46,4 +46,6 @@
   .quotehighlight {
     text-shadow: 0.5px 0.5px #c9c9c9;
     color: #C700C9;
+    text-decoration: underline;
+    font-size: 17px;
   }
